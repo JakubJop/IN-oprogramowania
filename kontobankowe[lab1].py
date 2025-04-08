@@ -53,7 +53,7 @@ class KontoBankowe:
         print(f"Powiadomienie: Konto '{self.wlasciciel}' zostało aktywowane.")
 
 
-# Testy jednostkowe
+#Testy jednostkowe
 
 
 import unittest
